@@ -1,4 +1,4 @@
-# Getting Started with the Z
+# Getting Started with the Zealy app
 
 ### `npm start`
 
