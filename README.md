@@ -8,12 +8,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm run build`
+## Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+https://github.com/user-attachments/assets/ce892b7e-5a11-489e-8cf8-73fce66ff0a4
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Scope for improvements
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Adding support to show all the emojis
+- Better looking comment container
+- Fade out animation when the popup hides
+- Capability to edit the added emojis and comment (should be easily extensible with the current component)
