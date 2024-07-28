@@ -1,5 +1,5 @@
 import React, { memo } from "react";
-import { Container, Emoji, Comment } from "./styles";
+import { Container, Comment } from "./styles";
 
 function Reaction({ emoji, comment, x, y }) {
   const style = {

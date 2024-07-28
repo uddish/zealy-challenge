@@ -70,6 +70,7 @@ function ReactionPopover(props) {
       <FormContainer>
         <StyledInput
           onChange={onCommentChange}
+          value={comment}
           placeholder="Add a comment..."
         />
         <StyledButton src={arrow} onClick={setReaction}></StyledButton>
