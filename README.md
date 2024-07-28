@@ -10,7 +10,7 @@ You may also see any lint errors in the console.
 
 ## Demo
 
-https://github.com/user-attachments/assets/ce892b7e-5a11-489e-8cf8-73fce66ff0a4
+https://github.com/user-attachments/assets/7d5fd998-1afe-4bd5-96cc-c9c4a7048f32
 
 ## Scope for improvements
 
