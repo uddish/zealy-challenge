@@ -54,8 +54,10 @@ export const ReactionPopOver = styled.div`
 export const EmojiButton = styled.button`
   padding: 5px;
   font-size: 20px;
+  height: 36px;
+  width: 36px;
   &:hover {
-    background-color: #f5f5f5;
+    background-color: #f0f0f0;
     border-radius: 50%;
   }
   border: none;
@@ -63,7 +65,7 @@ export const EmojiButton = styled.button`
   ${({ isSelected }) =>
     isSelected &&
     css`
-      background-color: #f5f5f5;
+      background-color: #f0f0f0;
       border-radius: 50%;
     `};
 `;
