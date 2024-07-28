@@ -11,7 +11,9 @@ export const Container = styled.div`
   padding: 10px;
 `;
 
-export const Emoji = styled.button``;
+export const Emoji = styled.span`
+  font-size: 20px;
+`;
 
 export const Comment = styled.span`
   margin-top: 10px;

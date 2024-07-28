@@ -1,5 +1,5 @@
 import React, { memo } from "react";
-import { Container, Comment } from "./styles";
+import { Container, Comment, Emoji } from "./styles";
 
 function Reaction({ emoji, comment, x, y }) {
   const style = {
@@ -10,7 +10,7 @@ function Reaction({ emoji, comment, x, y }) {
 
   return (
     <Container style={style}>
-      <span>{emoji}</span>
+      <Emoji>{emoji}</Emoji>
       {comment && <Comment>{comment}</Comment>}
     </Container>
   );

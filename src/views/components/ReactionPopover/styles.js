@@ -53,6 +53,7 @@ export const ReactionPopOver = styled.div`
 
 export const EmojiButton = styled.button`
   padding: 5px;
+  font-size: 20px;
   &:hover {
     background-color: #f5f5f5;
     border-radius: 50%;
